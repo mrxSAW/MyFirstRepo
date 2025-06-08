@@ -1,0 +1,6 @@
+Brief Introduction About Myself
+I'm Mohamed, an aspiring programming teacher with a passion for making technology accessible and engaging for beginners.
+I focus on simplifying complex technical concepts into interactive, easy-to-understand lessons, 
+and I leverage my multilingual skills in Arabic, French, and English to reach a diverse audience. 
+Whether it's developing innovative educational content or creating personal websites,
+my goal is to empower learners by transforming intricate ideas into enjoyable learning experiences.
