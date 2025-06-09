@@ -1,3 +1,29 @@
+LIST goals
+Achieve a GPA of QHSE or higher this semester.
+
+Complete all assignments and projects on time.
+
+Improve my skills in  math, writing, coding.
+
+Participate actively in class discussions and group work.
+
+Read at least1books or articles related to my courses.
+
+Prepare thoroughly for exams and aim for top grades.
+
+Seek help from teachers or tutors whenever I don’t understand something.
+
+Develop better time management and study habits.
+
+Join a study group or academic club.
+
+Explore opportunities for research or internships related to my field.
+
+
+
+
+
+
 Master New Web Development Tools: Enhance my technical skills by diving deeper into platforms like Bubble and Weebly, which will help in designing engaging and interactive content.
 
 Integrate Financial Literacy and Statistical Concepts: Explore real-world case studies and portfolio management strategies, and incorporate these examples into my programming lessons to bridge theory and practice.
